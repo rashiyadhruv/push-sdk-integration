@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pushprotocol/restapi": "^0.6.1",
+    "ethers": "^5.7.2"
+  }
+}
